@@ -1,0 +1,16 @@
+C:\Users\JLatteux\Documents\GitHub\TagManager\TagManager\AutoCompleteTextBox\dragonz.actb\bin\Debug\dragonz.actb.dll
+C:\Users\JLatteux\Documents\GitHub\TagManager\TagManager\AutoCompleteTextBox\dragonz.actb\bin\Debug\dragonz.actb.pdb
+C:\Users\JLatteux\Documents\GitHub\TagManager\TagManager\AutoCompleteTextBox\dragonz.actb\obj\Debug\dragonz.actb.csprojResolveAssemblyReference.cache
+C:\Users\JLatteux\Documents\GitHub\TagManager\TagManager\AutoCompleteTextBox\dragonz.actb\obj\Debug\dragonz.actb.g.resources
+C:\Users\JLatteux\Documents\GitHub\TagManager\TagManager\AutoCompleteTextBox\dragonz.actb\obj\Debug\dragonz.actb.Properties.Resources.resources
+C:\Users\JLatteux\Documents\GitHub\TagManager\TagManager\AutoCompleteTextBox\dragonz.actb\obj\Debug\dragonz.actb.csproj.GenerateResource.Cache
+C:\Users\JLatteux\Documents\GitHub\TagManager\TagManager\AutoCompleteTextBox\dragonz.actb\obj\Debug\dragonz.actb.dll
+C:\Users\JLatteux\Documents\GitHub\TagManager\TagManager\AutoCompleteTextBox\dragonz.actb\obj\Debug\dragonz.actb.pdb
+C:\Users\JLatteux\Documents\GitHub\AutoCompleteTextBox\dragonz.actb\bin\Debug\dragonz.actb.dll
+C:\Users\JLatteux\Documents\GitHub\AutoCompleteTextBox\dragonz.actb\bin\Debug\dragonz.actb.pdb
+C:\Users\JLatteux\Documents\GitHub\AutoCompleteTextBox\dragonz.actb\obj\Debug\dragonz.actb.csprojResolveAssemblyReference.cache
+C:\Users\JLatteux\Documents\GitHub\AutoCompleteTextBox\dragonz.actb\obj\Debug\dragonz.actb.g.resources
+C:\Users\JLatteux\Documents\GitHub\AutoCompleteTextBox\dragonz.actb\obj\Debug\dragonz.actb.Properties.Resources.resources
+C:\Users\JLatteux\Documents\GitHub\AutoCompleteTextBox\dragonz.actb\obj\Debug\dragonz.actb.csproj.GenerateResource.Cache
+C:\Users\JLatteux\Documents\GitHub\AutoCompleteTextBox\dragonz.actb\obj\Debug\dragonz.actb.dll
+C:\Users\JLatteux\Documents\GitHub\AutoCompleteTextBox\dragonz.actb\obj\Debug\dragonz.actb.pdb
